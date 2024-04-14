@@ -1,7 +1,8 @@
 # Testing Files
 testing/
 
-# Python Pylint
+# Python
+**/__pycache__
 .pylintrc
 
 # Visual Studio Code
