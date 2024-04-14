@@ -1,0 +1,8 @@
+# Testing Files
+testing/
+
+# Python Pylint
+.pylintrc
+
+# Visual Studio Code
+.vscode/
