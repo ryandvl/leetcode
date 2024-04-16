@@ -7,3 +7,6 @@ testing/
 
 # Visual Studio Code
 .vscode/
+
+# Backup
+backup/
