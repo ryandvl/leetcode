@@ -1,4 +1,4 @@
-# LeetCode Problems
+# LeetCode
 
 All the problems that I solved in **[LeetCode](https://leetcode.com)** and documented.
 
