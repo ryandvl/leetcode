@@ -59,6 +59,6 @@ While iterating through the string, we can check if the current Roman numeral is
 
 ### Codes
 
-> Languages Linguagens in which I maked this Solution: `JavaScript`, `Python`, `Java` and `C++`.
+> Languages in which I maked this Solution: `JavaScript`, `Python`, `Java` and `C++`.
 
 The codes are available in [codes.md](./codes.md).
